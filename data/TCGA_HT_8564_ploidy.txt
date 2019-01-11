@@ -1,0 +1,2 @@
+sample	ploidy	log2shift
+TCGA-HT-8564	2.85	-0.510961919277379
